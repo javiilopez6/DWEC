@@ -1,0 +1,24 @@
+.acordeon{
+    background-color: yellowgreen;
+    color: black;
+    cursor: pointer;
+    padding: 20px;
+    width: 100%;
+        outline: none;
+    font-size: 18px;
+    text-align: center;
+    border: 5px outline green;
+
+}
+.panel{
+    padding: 0px 20px;
+    background-color:wheat;
+   
+
+}
+
+.cyan{
+    background-color: cyan;
+
+
+}

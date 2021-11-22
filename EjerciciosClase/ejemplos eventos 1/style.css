@@ -1,0 +1,16 @@
+.caja{
+    width: 500px;
+    height: 500px;
+}
+.rojo {
+    background-color: red;
+
+}
+.azul{
+    background-color:blue;
+}
+
+.verde{
+    background-color:greenyellow;
+    border: 5px outline green;
+}
