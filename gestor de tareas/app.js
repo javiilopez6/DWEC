@@ -50,6 +50,7 @@
         var primerHijo=liSeleccionado.firstChild;
         liSeleccionado.removeChild(primerHijo);
         
+        
 
     }
     
@@ -72,6 +73,9 @@ function repetido(){
         creaTarea();
         contador ++;
     }else{
+
+
+        
     for (let i = 0; i < array.length; i++) {
         if (textoTextAreaArray===array[i]) {
             alert('Este elemento ya está insertado');
